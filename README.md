@@ -25,8 +25,6 @@ Recent Computer Science graduate specializing in full-stack development and AI s
 ### 🚀 Projects
 
 - **Face Recognition System**: Real-time face detection and recognition system built with Raspberry Pi, InsightFace, and Redis Vector Search.
-- **Loan Default Prediction**: Machine Learning project predicting customer default risks using XGBoost, FastAPI, and Docker.
-- **E-commerce Platform**: Developed scalable full-stack web application using Next.js, Node.js, and MySQL.
 
 > _Check out my repositories for more projects!_
 
