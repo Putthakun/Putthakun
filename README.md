@@ -1,7 +1,7 @@
 Hi there! 👋 I'm Putthakun Suansamran
 =====================================
 
-Junior Data Scientist | Full-Stack Developer
+Full-Stack Developer
 ---------------------------------------------
 
 Recent Computer Science graduate specializing in full-stack development and AI systems. Passionate about building real-time, scalable applications using modern web technologies and machine learning. Seeking to apply strong backend optimization and distributed system design skills to create impactful, production-ready solutions.
