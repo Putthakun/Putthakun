@@ -8,9 +8,6 @@ Recent Computer Science graduate specializing in full-stack development and AI s
 
 - 🌍  Based in Bangkok, Thailand
 - 📧  Contact me: [putthakun01@gmail.com](mailto:putthakun01@gmail.com)
-- 🔭  Currently working on: AI-powered web applications & real-time systems
-- 🌱  Currently learning: Advanced Deep Learning (GANs, Transformers), MLOps practices
-- 🤝  Open to collaborate on: AI projects, Open-source development, Full-stack applications
 
 ---
 
